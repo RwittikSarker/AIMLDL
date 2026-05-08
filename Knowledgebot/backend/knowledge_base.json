@@ -1,0 +1,18 @@
+[
+  {
+    "title": "About KnowledgeBot",
+    "content": "KnowledgeBot is an AI-powered chatbot that answers questions strictly from your custom knowledge base. It uses Google Gemini to generate responses but is guided only by the content you add. If a question is outside the knowledge base, it will say so politely instead of making things up."
+  },
+  {
+    "title": "How to Add Knowledge",
+    "content": "Open the Knowledge Base panel on the right side of the chat. Enter a Title (short topic name) and Content (the detailed information), then click Add Entry. You can also use Bulk Import to paste a JSON array of entries at once. All changes take effect immediately."
+  },
+  {
+    "title": "How to Set Up the API Key",
+    "content": "Click the Settings button at the top. Enter your Google AI Studio API key (starts with AIza). Click Save & Test. A green checkmark confirms it works. Get a free API key at https://aistudio.google.com/app/apikey"
+  },
+  {
+    "title": "How AI Works",
+    "content": "AI works by training algorithms on large amounts of data to recognize patterns. Machine learning is a type of AI where models learn from examples. Deep learning uses neural networks with many layers to solve complex problems like speech recognition and image classification."
+  }
+]
